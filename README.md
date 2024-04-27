@@ -14,78 +14,32 @@
 <div style="margin:50px 0px"></div>
 
 <h3 align="left">Skills / Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,solidjs,css,tailwind,d3&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=pinia,redux,nodejs,express,nestjs,&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,postgres&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Hobbies:</h3>
+
+<p style="display:flex">
+
+[![My Skills](https://skillicons.dev/icons?i=blender&theme=dark)](https://skillicons.dev)
+
+</p>
+
 <p align="left">
-
-### Main
-
-| Skills                                                                                                                                            |                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> |
-| Paragraph                                                                                                                                         | Text                                                                                                                                              |
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a>
-
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-   <img src="https://nuxt.com/assets/design-kit/logo-green-black.svg" alt="nuxtjs" width="40" height="40"/>
-   
-   </a>
-    
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a>
-
-<a href="https://www.blender.org" target="_blank" rel="noreferrer">
-
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-</a>
-
-<a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-</a>
-
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-</a>
-
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="nestjs" width="40" height="40"/>
- </a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
- </a>
-
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
- </a>
-
-   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-   </a>
-
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-      </a>
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="vuejs" width="40" height="40"/> 
       </a>
       
 </p>
+
+<h3 align="left">Interests:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=gql,astro,aws,go,flutter,godot,docker,threejs,laravel&theme=dark)](https://skillicons.dev)
 
 <div style="margin:80px 0px"></div>
 
