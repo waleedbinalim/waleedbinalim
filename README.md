@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=24&duration=2000&pause=3000&color=134155&repeat=false&random=false&width=435&lines=Hey+there!)](https://git.io/typing-svg)
 
-<h4 align="left">Software engineer with 4+ years in the industry. While a majority of my skills lie in the frontend space, I also enjoy diving into fullstack roles whether it's a personal project or when an opportunity pops up.
+<h4 align="left">Software engineer with multiple years working for startups remotely. While a majority of my skills started from the frontend space, I love working into fullstack roles whether it's a personal project or when an opportunity pops up.
 </h4>
-
-<!-- Bullet points go here -->
-<!-- - 🔭 I currently work with **Remotebase** -->
 
 <h3 align="left">Network:</h3>
 <p align="left">
@@ -21,7 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=pinia,redux,nodejs,express,nestjs,gql,docker&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,aws,postgres&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Hobbies:</h3>
 
@@ -31,7 +28,7 @@
       <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="vuejs" width="40" height="40"/> 
       </a>
 
-<h3 align="left">2025 Learning:</h3>
+<h3 align="left">Currently Learning:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=astro,go&theme=dark)](https://skillicons.dev)
 
@@ -39,7 +36,7 @@
 
 <h3 align="left">Interests:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,flutter,godot,threejs,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,godot,threejs,laravel&theme=dark)](https://skillicons.dev)
 
 <div style="margin:80px 0px"></div>
 
