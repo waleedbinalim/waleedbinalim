@@ -1,0 +1,100 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020403"/>
+      <stop offset="100%" stop-color="#08120C"/>
+    </linearGradient>
+
+    <!-- Neon -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff99"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle Grid -->
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path
+        d="M48 0H0V48"
+        fill="none"
+        stroke="#00ff88"
+        stroke-opacity="0.035"
+        stroke-width="1"/>
+    </pattern>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)"/>
+
+  <!-- Title -->
+
+  <text
+    x="50%"
+    y="155"
+    text-anchor="middle"
+    font-family="Segoe UI, Inter, sans-serif"
+    font-size="62"
+    font-weight="700"
+    fill="url(#neon)"
+    filter="url(#glow)">
+      WALEED BIN ALIM
+  </text>
+
+  <text
+    x="50%"
+    y="200"
+    text-anchor="middle"
+    font-family="Consolas, monospace"
+    font-size="21"
+    fill="#82FFBF">
+      Full Stack Developer
+  </text>
+
+
+  <path fill="#00ff88" opacity="0.08">
+    <animate
+      attributeName="d"
+      dur="16s"
+      repeatCount="indefinite"
+      values="
+      M0,285 C350,210 700,360 1100,300 C1350,260 1500,230 1600,250 L1600,420 L0,420 Z;
+      M0,260 C300,330 700,220 1100,285 C1400,345 1500,250 1600,280 L1600,420 L0,420 Z;
+      M0,285 C350,210 700,360 1100,300 C1350,260 1500,230 1600,250 L1600,420 L0,420 Z"/>
+  </path>
+
+  <path fill="#39ff14" opacity="0.18">
+    <animate
+      attributeName="d"
+      dur="10s"
+      repeatCount="indefinite"
+      values="
+      M0,320 C420,260 780,360 1180,310 C1450,280 1520,330 1600,315 L1600,420 L0,420 Z;
+      M0,300 C360,360 850,240 1200,320 C1450,260 1550,300 1600,300 L1600,420 L0,420 Z;
+      M0,320 C420,260 780,360 1180,310 C1450,280 1520,330 1600,315 L1600,420 L0,420 Z"/>
+  </path>
+
+  <path fill="url(#neon)" opacity="0.32">
+    <animate
+      attributeName="d"
+      dur="7s"
+      repeatCount="indefinite"
+      values="
+      M0,350 C500,300 900,390 1600,340 L1600,420 L0,420 Z;
+      M0,330 C450,390 1050,270 1600,350 L1600,420 L0,420 Z;
+      M0,350 C500,300 900,390 1600,340 L1600,420 L0,420 Z"/>
+  </path>
+
+</svg>

@@ -1,7 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=24&duration=2000&pause=3000&color=134155&repeat=false&random=false&width=435&lines=Hey+there!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Header">
+</p>
 
-<h4 align="left">Software engineer with multiple years working for startups remotely. While a majority of my skills started from the frontend space, I love working into fullstack roles whether it's a personal project or when an opportunity pops up.
-</h4>
+<h6 align="left">Software engineer with multiple years working for startups remotely. While a majority of my skills started from the frontend space, I love working into fullstack roles whether it's a personal project or when an opportunity pops up.
+</h6>
 
 <h3 align="left">Network:</h3>
 <p align="left">
@@ -14,15 +16,21 @@
 
 <h3 align="left">Skills / Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,solidjs,css,tailwind,d3&theme=dark)](https://skillicons.dev)
+#### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=pinia,redux,nodejs,express,nestjs,gql,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,solidjs,css,tailwind,d3,pinia,redux,vite,vitest&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,supabase,aws,postgres&theme=dark)](https://skillicons.dev)
+#### Backend
 
-<h3 align="left">Hobbies:</h3>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,gql,redis,py,prisma,go&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=blender&theme=dark)](https://skillicons.dev)
+#### DevOps | Databases
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,supabase,aws,postgres,docker,sqlite,nginx&theme=dark)](https://skillicons.dev)
+
+<h3 align="left">Other:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=blender,obsidian,figma&theme=dark)](https://skillicons.dev)
 
 <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="vuejs" width="40" height="40"/> 
@@ -30,13 +38,13 @@
 
 <h3 align="left">Currently Learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=astro,go&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro&theme=dark)](https://skillicons.dev)
 
-<div style="margin:80px 0px"></div>
+<div style="margin:20px 0px"></div>
 
 <h3 align="left">Interests:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,godot,threejs,laravel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,godot,threejs,laravel,kubernetes,kafka&theme=dark)](https://skillicons.dev)
 
 <div style="margin:80px 0px"></div>
 
