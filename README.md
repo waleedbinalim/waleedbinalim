@@ -50,6 +50,6 @@
 
 <span>
 <a href="https://github.com/waleedbinalim">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedbinalim&layout=compact&langs_count=6&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" />
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=waleedbinalim&layout=compact&langs_count=8" />
 </a>
 </span>
