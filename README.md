@@ -16,15 +16,19 @@
 ### Skills
 
 **Frontend**
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,solidjs,css,tailwind,d3,pinia,redux,vite,vitest&theme=dark&perline=14)](https://skillicons.dev)
 
 **Backend**
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,gql,redis,py,prisma,go&theme=dark&perline=14)](https://skillicons.dev)
 
 **DevOps | Databases**
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,supabase,aws,postgres,docker,sqlite,nginx&theme=dark&perline=14)](https://skillicons.dev)
 
 **Interests**
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,godot,threejs,laravel,kubernetes,kafka,astro&theme=dark)](https://skillicons.dev)
 
 <div style="margin:80px 0px"></div>
