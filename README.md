@@ -15,21 +15,21 @@
 
 ### Skills
 
-**Frontend**
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,solidjs,css,tailwind,d3,pinia,redux,vite,vitest&theme=dark&perline=14)](https://skillicons.dev)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,solidjs,css,tailwind,d3,pinia,redux,vite,vitest&theme=dark&perline=14" alt="Frontend"/>
 
-**Backend**
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,gql,redis,py,prisma,go&theme=dark&perline=14" alt="Backend"/>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,gql,redis,py,prisma,go&theme=dark&perline=14)](https://skillicons.dev)
+**DevOps | Databases**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase,aws,postgres,docker,sqlite,nginx&theme=dark&perline=14" alt="DevOps"/>
 
-**DevOps | Databases**
+**Interests**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,godot,threejs,laravel,kubernetes,kafka,astro&theme=dark" alt="Data & AI"/>
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,supabase,aws,postgres,docker,sqlite,nginx&theme=dark&perline=14)](https://skillicons.dev)
-
-**Interests**
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,godot,threejs,laravel,kubernetes,kafka,astro&theme=dark)](https://skillicons.dev)
+</div>
 
 <div style="margin:80px 0px"></div>
 
@@ -41,10 +41,10 @@
 
 ## Work History
 
-| **Year**       | **Role**                    |
-| -------------- | --------------------------- |
-| 2021           | Associate Software Engineer |
-| 2022           | Software Engineer I         |
-| 2023 - 2024    | Full-Stack Engineer         |
-| 2024 - 2025    | Senior Software Engineer II |
-| 2026 - Present | Senior AI Software Engineer |
+| **Year**            | **Role**                    |
+| ------------------- | --------------------------- |
+| Apr 2021 - Dec 2021 | Associate Software Engineer |
+| Dec 2021 - Jan 2023 | Software Engineer I         |
+| Jan 2023 - Jul 2024 | Full-Stack Engineer         |
+| Jul 2024 - Jun 2025 | Senior Software Engineer II |
+| Jul 2026 - Present  | Senior AI Software Engineer |
