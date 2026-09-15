@@ -4,22 +4,19 @@
 
 ## About Me
 
-Fullstack engineer with several years of remote startup experience. I got my start on the frontend, but I've moved to fullstack roles building products end to end. You can find my featured work on my <a href="https://waleedbinalim.vercel.app" target="_blank">portfolio</a>.
+Full-stack engineer with several years of remote startup experience. I got my start on the frontend, but I've moved to fullstack roles building products end to end. You can find my featured work on my <a href="https://waleedbinalim.vercel.app" target="_blank">portfolio</a>.
 
 <p align="left">
-<a href="https://waleedbinalim.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-waleedbinalim.vercel.app-00cc77?style=flat" alt="Portfolio" height="28" /></a>
-<a href="https://linkedin.com/in/waleedbinalim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleedbinalim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/waleed_alim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="waleed_alim" height="30" width="40" /></a>
-
+  <a href="https://waleedbinalim.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00cc77?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/waleedbinalim" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/waleed_alim" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
-
-<br/>
 
 ## Skills
 
 <div align="center">
 
-## Frontend
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -36,9 +33,9 @@ Fullstack engineer with several years of remote startup experience. I got my sta
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
-## Backend
+### Backend
 
-![Go (Golang)](<https://img.shields.io/badge/Go_(GoLang)-00ADD8?style=flat-square&logo=go&logoColor=white>)
+![Go (Golang)](https://img.shields.io/badge/Go_%28GoLang%29-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -47,7 +44,7 @@ Fullstack engineer with several years of remote startup experience. I got my sta
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-## DevOps | Databases
+### DevOps | Databases
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -59,7 +56,7 @@ Fullstack engineer with several years of remote startup experience. I got my sta
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-## Interests
+### Interests
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
@@ -71,13 +68,9 @@ Fullstack engineer with several years of remote startup experience. I got my sta
 
 </div>
 
-<br/>
-
-<span>
-<a href="https://github.com/waleedbinalim">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=waleedbinalim&layout=compact&langs_count=8" />
-</a>
-</span>
+<p align="center">
+  <a href="https://github.com/waleedbinalim" target="_blank"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=waleedbinalim&layout=compact&langs_count=8" alt="Top languages" /></a>
+</p>
 
 ## Work History
 
