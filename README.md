@@ -14,7 +14,7 @@ Full-stack engineer with several years of remote startup experience. I got my st
 
 ## Skills
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 
